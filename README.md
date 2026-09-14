@@ -11,16 +11,16 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:alireza.samadi.darstany@gmail.com">
+  <a href="mailto:alir3za.samadi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github-dev-card-bypl.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo%20·%20DevCard-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live%20Demo%20·%20DevCard-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Live Demo" />
   </a>
   <a href="https://saas-dashboard.freedev.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo%20·%20SaaS%20Dashboard-1e293b?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live%20Demo%20·%20SaaS%20Dashboard-1e293b?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Live Demo" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Tehran%2C%20Iran-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Iran%2C%20Tehran-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </div>
 
 <br/>
