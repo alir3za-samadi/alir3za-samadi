@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hi%20There,%20I'm%20Alireza%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/alir3za-samadi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Self-taught+Front-End+Developer+%F0%9F%92%BB;React+%2B+TypeScript+%2B+Tailwind+%2B+Next.js;Building+GitHub+DevCard+with+Next.js+%2B+TypeScript;Migrating+SaaS+Dashboard+to+TypeScript;Always+exploring+new+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Junior+Front-End+Developer+%F0%9F%92%BB;React+%2B+Next.js+%2B+TypeScript+%2B+Tailwind;React+Query+%2B+shadcn%2Fui;Building+GitHub-DevCard+with+Next.js+%2B+TypeScript;Migrating+SaaS+Dashboard+to+TypeScript;Always+exploring+new+tech" alt="Typing SVG" />
 </a>
 
 </div>
