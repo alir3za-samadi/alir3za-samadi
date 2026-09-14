@@ -46,7 +46,7 @@
 <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://custom-icon-badges.demolab.com/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://custom-icon-badges.demolab.com/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
 <br/>
 
