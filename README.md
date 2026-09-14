@@ -153,5 +153,5 @@ A responsive admin dashboard featuring a **generic, reusable `Table` component**
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=140&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=140&section=footer&text=Thanks%20for%20visiting!%20&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%"/>
 </div>
