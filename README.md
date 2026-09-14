@@ -27,13 +27,13 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 19-year-old front-end developer, self-taught for over a year through consistent, hands-on practice
-- 🔭 Currently building **GitHub DevCard**, a Next.js + TypeScript app for exploring GitHub profiles — my main showcase project right now
-- 🔭 Also migrating my earlier **SaaS Dashboard** project from JavaScript → TypeScript
-- 🌱 Applying `Next.js` (App Router, Server Components, `next/og`) directly in DevCard while learning it in depth via the official docs
-- 📚 Learn primarily from official documentation (`react.dev`, `typescriptlang.org`, `nextjs.org`) rather than tutorials alone
-- 💬 Comfortable reading and understanding technical documentation in English
-- ⚡ Fun fact: I build every practice project without AI-generated code, to make sure I actually understand what I ship
+- 🎓 **Self-Taught Front-End Developer** (1+ year of hands-on experience building production-ready Web Apps)
+- 🔭 Building **[GitHub DevCard](https://github-dev-card-bypl.vercel.app/)** — A Next.js (App Router), TypeScript, & TanStack Query app for GitHub analytics, profile comparisons, and dynamic OG card generation
+- ⚡ Refactoring earlier projects (like **[SaaS Dashboard](https://saas-dashboard.freedev.app/)**) from JavaScript to strict TypeScript & modular design patterns
+- 🌱 Deepening knowledge of **Next.js Internals** (Server Components, Data Caching, SEO Signals, & Dynamic Routing) via official documentation
+- 📚 Primary learning pipeline: Official Docs (`react.dev`, `nextjs.org`, `typescriptlang.org`) over isolated tutorials
+- 🌐 Proficient in reading, analyzing, and applying complex technical documentation in English
+- 💡 **Core Philosophy:** Hand-crafting architecture and logic without relying on AI generators to ensure 100% deep code ownership
 
 <br/>
 
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,nextjs,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,nextjs,shadcn,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -51,12 +51,15 @@
 
 | Skill | Level |
 |---|---|
-| HTML5 / CSS3 / JavaScript (ES6+) | ⭐⭐⭐⭐⭐ |
-| React JS | ⭐⭐⭐⭐ |
-| Tailwind CSS | ⭐⭐⭐⭐ |
-| TypeScript | ⭐⭐⭐ |
-| Next.js | ⭐⭐⭐ (building real projects) |
-| Git & GitHub | ⭐⭐⭐ |
+| HTML5 & CSS3 | ★★★★★ |
+| JavaScript (ES6+) | ★★★★⯪ |
+| TypeScript | ★★★★☆ |
+| React JS | ★★★★☆ |
+| Next.js | ★★★⯪☆ |
+| Tailwind CSS | ★★★★☆ |
+| Shadcn/ui | ★★★⯪☆ |
+| React Query (TanStack Query) | ★★★☆☆ |
+| Git & GitHub | ★★★☆☆ |
 
 </div>
 
@@ -74,7 +77,7 @@ Search any GitHub username to view live stats, compare two profiles head-to-head
   <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github-dev-card-bypl.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Preview-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live%20Demo%20·%20DevCard-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Live Demo" />
 </a>
 
 </div>
@@ -94,7 +97,7 @@ A responsive admin dashboard featuring a **generic, reusable `Table` component**
   <img src="https://img.shields.io/badge/JavaScript%20Branch-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </a>
 <a href="https://saas-dashboard.freedev.app/">
-  <img src="https://img.shields.io/badge/Live%20Preview-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live%20Demo%20·%20SaaS%20Dashboard-1e293b?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Live Demo" />
 </a>
 
 </div>
@@ -136,5 +139,5 @@ A responsive admin dashboard featuring a **generic, reusable `Table` component**
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
 </div>
