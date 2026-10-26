@@ -28,7 +28,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **Self-Taught Front-End Developer** (1+ year of hands-on experience building production-ready Web Apps)
-- 🔭 Building **[GitHub DevCard](https://github-dev-card-bypl.vercel.app/)** — A Next.js (App Router), TypeScript, & TanStack Query app for GitHub analytics, profile comparisons, and dynamic OG card generation
+- 🔭 Building **[GitHub DevCard](https://github-dev-card.vercel.app/)** — A Next.js (App Router), TypeScript, & TanStack Query app for GitHub analytics, profile comparisons, and dynamic OG card generation
 - ⚡ Refactoring earlier projects (like **[SaaS Dashboard](https://saas-dashboard.freedev.app/)**) from JavaScript to strict TypeScript & modular design patterns
 - 🌱 Deepening knowledge of **Next.js Internals** (Server Components, Data Caching, SEO Signals, & Dynamic Routing) via official documentation
 - 📚 Primary learning pipeline: Official Docs (`react.dev`, `nextjs.org`, `typescriptlang.org`) over isolated tutorials
